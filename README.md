@@ -1,6 +1,6 @@
 # Nuxt Starter
 
-![Netlify + Nuxt Starter Preview](nuxt-starter-preview.jpg)
+
 
 
 ---
